@@ -1,8 +1,8 @@
 ## Game Components
 
-![Ecosia Board Game](assets/img/photo.jpg)
+![Ecosia Board Game](assets/img/photo.png)
 
-## ♟ The board
+## The board
 
 The game uses a regular Catan board. There are 6 types of tiles, plus the ocean:
 
@@ -49,25 +49,20 @@ We have created a custom deck that you can print. Alternatively, you can reuse C
 
 Place 3 trees in any nurseries of your choice. You may distribute these trees across multiple nurseries and mix different species as you see fit.
 
-🌅 If using Catan components, we recommend making “Sheep” resource cards as “Nursery”.
-
-📚*Finding and growing seedlings is one of the bottlenecks of planting trees, nurseries are important to overcome this problem.*
+> 📚 *Finding and growing seedlings is one of the bottlenecks of planting trees, nurseries are important to overcome this problem.*
 
 ### 🌳 Plant
 
 Plant a tree on a tile from a selected nursery, except on a deforested tile. You must use a tree unit from a nursery that is connected to that tile (see “Connected Tiles” under “Concepts” for details).
 
-🌅 If using Catan components, we recommend making “Wood” resource cards as “Plant”.
 
-📚 *Planting trees is one of the best ways to reforest the planet and fight climate change.*
+> 📚 *Planting trees is one of the best ways to reforest the planet and fight climate change.*
 
 ### 🤲 Prune
 
 Add a tree unit to a selected tile, matching a species of a tree already planted there. This tree unit should come from your reserve (not from a nursery).
 
-🌅If using Catan components, we recommend making “Wheat” resource cards as “Prune”.
-
-📚 *Pruning makes trees grow bigger and healthier, which is important to be the most efficient we can when generating biomass, which in turn captures more co2.*
+> 📚 *Pruning makes trees grow bigger and healthier, which is important to be the most efficient we can when generating biomass, which in turn captures more co2.*
 
 ### 💞 Natural reforestation
 
@@ -75,11 +70,9 @@ Add a tree unit of the same species between two tiles where that species is alre
 
 The images below explain what valid in between tiles are.
 
-![](Aspose.Words.843fbbd3-fdfa-4588-8cc3-1fbcba4bb23b.001.png)![](Aspose.Words.843fbbd3-fdfa-4588-8cc3-1fbcba4bb23b.002.png)![](Aspose.Words.843fbbd3-fdfa-4588-8cc3-1fbcba4bb23b.003.png)
+![Natural reforestation example](assets/img/example.png)
 
-🌅If using Catan components, we recommend making “Clay” resource cards as “Natural reforestation”.
-
-📚 *To facilitate tree monitoring, we plant threes in lines. This way we can easily identify that trees that appear “outside the line” have been seeded naturally.*
+> 📚 *To facilitate tree monitoring, we plant threes in lines. This way we can easily identify that trees that appear “outside the line” have been seeded naturally.*
 
 ### 👩‍🌾 Agroforestry
 
@@ -88,8 +81,6 @@ Increasing tree diversity on a farmland to create a productive system that mimic
 1. Select one tree from a nursery connected to a farmland tile (see “Connected Tiles” under “Concepts” for details).
 1. Plant this tree in the chosen farmland tile, ensuring no other tree of the same species is already present.
 1. After planting, add 2 trees of any species to the nursery from which you took the tree.
-
-🌅 If using Catan components, we recommend making “Knight” resource cards as “Agroforestry”.
 
 📚 *These productive systems require less maintainability. The trees need to be complementary to each other, for example occupying different layers of the forest. This means a much higher profit margin that supports villages in developing countries. Ecosia does this for many of the projects ensuring that trees have a high survival rate.*
 
@@ -102,6 +93,4 @@ Bring life back to any deforested area of your choosing by planting different tr
    1. You can choose trees from different nurseries connected to the deforested area to fulfill the planting requirement.
    1. If you do not have enough trees to plant, you also cannot proceed with reforestation.
 
-🌅If using Catan components, we recommend making “Stone” resource cards as “Reforestation”.
-
-*📚 To reforest areas that have scarce rains, we use the Half Moon technique, where we dig half moon shaped holes and plant the trees inside it so that more water is retained when it does rain.*
+> *📚 To reforest areas that have scarce rains, we use the Half Moon technique, where we dig half moon shaped holes and plant the trees inside it so that more water is retained when it does rain.*
