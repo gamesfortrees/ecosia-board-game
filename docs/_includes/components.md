@@ -1,6 +1,6 @@
 ## Game Components
 
-![Ecosia Board Game](/docs/assets/img/photo.jpg)
+![Ecosia Board Game](/ecosia-board-game/img/photo.jpg)
 
 ## ♟ The board
 
