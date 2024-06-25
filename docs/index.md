@@ -1,4 +1,5 @@
 **Ecosia: the board game** is the fun co-op board game that you probably already own! Based on the popular game about colonialism and resource extraction _Settlers of Catan_, we've remagined what living in the island of Catan could be like if humans and nature could co-exist.
+show_downloads
 
 ## Table of Contents
 
