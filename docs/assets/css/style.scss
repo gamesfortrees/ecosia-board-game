@@ -20,7 +20,8 @@ a {
 }
 
 a:hover, a:focus {
-	font-weight: normal;
+    color: var(--color-primary);
+	font-weight: unset;
 }
 
 footer {
