@@ -6,12 +6,12 @@ This deck consists of the possible damaging events that affect the trees, potent
 
 | ♠️♥️ Card ♦️♣️ | Meaning |
 |------------|----------|
-| Ace | [🏜 Deforestation](#-deforestation) |
-| Two | [🚜 Encroaching](#-encroaching) |
-| Three | [🌊 Heavy rain ](#-heavy-rain ) |
-| Jack | [🔥 Wildfire](#-wildfire) |
-| Queen | [🦠 Pest](#-pest) |
-| King | [♨️ Drought](#-drought) |
+| Ace | 🏜 [Deforestation](#-deforestation) |
+| Two | 🚜 [Encroaching](#-encroaching) |
+| Three | 🌊 [Heavy rain ](#-heavy-rain ) |
+| Jack | 🔥 [Wildfire](#-wildfire) |
+| Queen | 🦠 [Pest](#-pest) |
+| King | ♨️ [Drought](#-drought) |
 
 #### 🏜 Deforestation
 

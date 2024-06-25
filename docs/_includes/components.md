@@ -22,10 +22,6 @@ For the purpose of this game, the tree pieces are an **unlimited resource**. You
 
 You can use cubes of 3 different colors or 3 kinds of meeple from other games. You can also create your own tree tokens out of clay or simply use the streets and cities of Catan to represent trees.
 
-### Dice
-
-You will need one D6 to play the game; you can use one of the already included in Catan.
-
 ### First player token
 
 To make it clearer who the first player is, you can use any small object you have around. This will switch between players on each round. You can use the robbers figurine for this purpose.

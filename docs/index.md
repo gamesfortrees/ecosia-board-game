@@ -4,7 +4,11 @@ layout: default
 
 ![Ecosia Board Game](assets/img/trees_banner.png)
 
+## About
+
 **Ecosia: the board game** is the fun co-op board game that you probably already own! Based on the popular game about colonialism and resource extraction _Settlers of Catan_, we've remagined what living in the island of Catan could be like if humans and nature could co-exist.
+
+This game was developed by a group of board game fans at Ecosia with a multitude of skills, but more importantly a love for trees, nature and the environment. If you decide to give it a try, we would love to hear back from you over on our Github page.
 
 ## Materials needed
 
