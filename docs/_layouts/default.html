@@ -40,11 +40,6 @@
         <nav>
             <ul id="navlist"></ul>
         </nav>
-        <script>
-            const headers = Array.from(document.querySelectorAll('section h2'))
-                .map(h => `<li><a href="#${h.id}">${h.innerText}</a></li>`)
-            navlist.innerHTML = headers;
-        </script>
       </header>
       <section>
 
@@ -53,5 +48,12 @@
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+        (function() {
+            const headers = Array.from(document.querySelectorAll('section h2'))
+                .map(h => `<li><a href="#${h.id}">${h.innerText}</a></li>`)
+            navlist.innerHTML = headers;
+        })()
+    </script>
   </body>
 </html>
