@@ -2,12 +2,9 @@
 layout: default
 ---
 
+![Ecosia Board Game](/docs/assets/img/trees_banner.jpg)
+
 **Ecosia: the board game** is the fun co-op board game that you probably already own! Based on the popular game about colonialism and resource extraction _Settlers of Catan_, we've remagined what living in the island of Catan could be like if humans and nature could co-exist.
-
-## Table of Contents
-
-1. [Materials needed](#materials-needed)
-1. [Concepts](#concepts)
 
 ## Materials needed
 
@@ -22,7 +19,6 @@ Part of the idea of a sustainable board game is to avoid having to buy a new gam
 *   A first-player token
 
 {% include components.md %}
-
 
 ## Concepts
 
