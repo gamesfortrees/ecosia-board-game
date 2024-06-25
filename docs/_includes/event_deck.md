@@ -43,13 +43,13 @@ Add 1 tree to one tile surrounding each water spring tile. You don’t need to u
 
 #### 🔥 Wildfire
 
-In the dry land tile closest to the player, a fire starts. All trees in Monoculture (see “Monoculture” under “Concepts” for details) in that tile and in the adjacent tile, die. If one or more adjacent tiles are empty after this (even if no trees were killed), players have to choose one of them to become deforested, assign a number to it as well.
+In the dry land tile closest to the player, a fire starts. All trees in Monoculture (see [monoculture](#monoculture) under [concepts](#concepts)) in that tile and in the adjacent tile, die. If one or more adjacent tiles are empty after this (even if no trees were killed), players have to choose one of them to become deforested, assign a number to it as well.
 
 > 📚 *As a result of climate change, many areas are drier and much more susceptible to wildfires. Forest fires are also unfortunately used as deforestation techniques by humans and often grow out of control and become wildfire.*
 
 #### 🦠 Pest
 
-Find the tile with a Monoculture (see “Monoculture” under “Concepts” for details) closest to the player. Then, on all tiles on the board, reduce the number of trees of that species by 1.
+Find the tile with a Monoculture (see [monoculture](#monoculture)) closest to the player. Then, on all tiles on the board, reduce the number of trees of that species by 1.
 
 > 📚 *Less diversity, which is usually caused by humans, makes forests much more susceptible to pests, such as bugs or diseases, that proliferate and devastate the environment.*
 

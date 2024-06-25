@@ -35,3 +35,32 @@ footer {
 section {
     width: 600px;
 }
+
+blockquote {
+	color: var(--color-secondary);
+}
+
+
+/** NAV **/
+
+#navlist {
+    list-style: none;
+    padding: 0;
+    overflow: scroll;
+    max-height: 60vh;
+}
+
+nav li {
+    color: var(--color-primary);
+}
+li a {
+    text-decoration: none;
+}
+
+li.H3 {
+    margin-left: 1em;
+}
+
+li.H4 {
+    margin-left: 2em;
+}
