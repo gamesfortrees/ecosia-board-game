@@ -1,4 +1,4 @@
-## Event deck
+### Event deck
 
 This deck consists of the possible damaging events that affect the trees, potentially causing more deforestation. Most times this affects tiles closest to the current starting player for that round.
 
@@ -6,14 +6,14 @@ This deck consists of the possible damaging events that affect the trees, potent
 
 | ♠️♥️ Card ♦️♣️ | Meaning |
 |------------|----------|
-| Ace | [🏜 Deforestation](#deforestation) |
-| Two | [🚜 Encroaching](#encroaching) |
-| Three | [🌊 Heavy rain ](#heavy-rain ) |
-| Jack | [🔥 Wildfire](#wildfire) |
-| Queen | [🦠 Pest](#pest) |
-| King | [♨️ Drought](#drought) |
+| Ace | [🏜 Deforestation](#-deforestation) |
+| Two | [🚜 Encroaching](#-encroaching) |
+| Three | [🌊 Heavy rain ](#-heavy-rain ) |
+| Jack | [🔥 Wildfire](#-wildfire) |
+| Queen | [🦠 Pest](#-pest) |
+| King | [♨️ Drought](#-drought) |
 
-### 🏜 Deforestation
+#### 🏜 Deforestation
 
 The highest-numbered deforested area will try to expand:
 
@@ -24,7 +24,7 @@ The highest-numbered deforested area will try to expand:
 
 📚*One of the worst effects of climate change is higher temperatures, making it harder for trees to survive.*
 
-### 🚜 Encroaching
+#### 🚜 Encroaching
 
 The farmlands want to expand. For each farmland tile, destroy all trees of one species. If there are multiple species present, players choose which species to remove. If there are any empty farmland tiles after that, encroaching happens. If multiple tiles are empty, do it only for the one closest to the player.
 
@@ -35,25 +35,25 @@ The farmlands want to expand. For each farmland tile, destroy all trees of one s
 
 > 📚 *Human civilization continuously deforests areas to use as farmland. This is especially a big problem for monoculture plantations, since the quality of the soil after harvesting is so bad that it is much cheaper to just move to a different area instead of planting again, causing more deforestation.*
 
-### 🌊 Heavy rain
+#### 🌊 Heavy rain
 
 Add 1 tree to one tile surrounding each water spring tile. You don’t need to use trees from nurseries and can choose the tile and species you plant. Then run the “Deforestation” event.
 
 > 📚 *Climate change increases the amount and intensity of rains, flooding susceptible areas. This suffocates trees, but also is a problem for many people living in affected areas. Heavy rain also causes erosion, which trees can help prevent by increasing the retention of water and nutrients.*
 
-### 🔥 Wildfire
+#### 🔥 Wildfire
 
 In the dry land tile closest to the player, a fire starts. All trees in Monoculture (see “Monoculture” under “Concepts” for details) in that tile and in the adjacent tile, die. If one or more adjacent tiles are empty after this (even if no trees were killed), players have to choose one of them to become deforested, assign a number to it as well.
 
 > 📚 *As a result of climate change, many areas are drier and much more susceptible to wildfires. Forest fires are also unfortunately used as deforestation techniques by humans and often grow out of control and become wildfire.*
 
-### 🦠 Pest
+#### 🦠 Pest
 
 Find the tile with a Monoculture (see “Monoculture” under “Concepts” for details) closest to the player. Then, on all tiles on the board, reduce the number of trees of that species by 1.
 
 > 📚 *Less diversity, which is usually caused by humans, makes forests much more susceptible to pests, such as bugs or diseases, that proliferate and devastate the environment.*
 
-### ♨️ Drought
+#### ♨️ Drought
 
 Remove 1 tree from 1 spring tile; then for each spring tile without any trees, remove one tree from one adjacent tile. If one or more tiles are empty after this (even if no trees were killed), players have to choose one of them to become deforested, assign a number to it as well.
 

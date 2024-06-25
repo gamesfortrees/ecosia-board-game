@@ -2,7 +2,7 @@
 
 ![Ecosia Board Game](assets/img/photo.jpg)
 
-## The board
+### The board
 
 The game uses a regular Catan board. There are 6 types of tiles, plus the ocean:
 
@@ -14,7 +14,7 @@ The game uses a regular Catan board. There are 6 types of tiles, plus the ocean:
 - 🌿 **Meadow** tiles** (aka pasture) just start empty
 - ⚓️ **Nurseries** are the docks on the cost, and is where tree saplings will be places
 
-## The trees
+### The trees
 
 There are different species of trees that can be planted. The game requires 3 species of trees. What the species are is not relevant for the gameplay, just the potential diversity. If you want to get inspired, check out [Ecosia’s blog](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) and see which species are planted on which project.
 
@@ -22,11 +22,11 @@ For the purpose of this game, the tree pieces are an **unlimited resource**. You
 
 You can use cubes of 3 different colors or 3 kinds of meeple from other games. You can also create your own tree tokens out of clay or simply use the streets and cities of Catan to represent trees.
 
-## Dice
+### Dice
 
 You will need one D6 to play the game; you can use one of the already included in Catan.
 
-## First player token
+### First player token
 
 To make it clearer who the first player is, you can use any small object you have around. This will switch between players on each round. You can use the robbers figurine for this purpose.
 
