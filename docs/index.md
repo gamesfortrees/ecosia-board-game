@@ -21,7 +21,7 @@ Part of the idea of a sustainable board game is to avoid having to buy a new gam
 *   3 sets of at least 15 identical pieces to represent 3 species of trees
 *   A first-player token
 
-{% include partials/components.md %}
+{% include components.md %}
 
 
 ## Concepts
