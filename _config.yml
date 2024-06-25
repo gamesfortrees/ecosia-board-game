@@ -1,8 +1,11 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-toc
+theme: minimal
 relative_links:
   enabled: true
   collections: true
 include:
   - index.md
+
+title: "Ecosia: the board game"
+description: "The sustainable game that teaches about reforesting"
