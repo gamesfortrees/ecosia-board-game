@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="183.99243mm"
+   height="61.0303mm"
+   viewBox="0 0 183.99243 61.030301"
+   version="1.1"
+   id="svg1690"
+   inkscape:export-filename="/home/lopis/Downloads/boardgamelogo.png"
+   inkscape:export-xdpi="130"
+   inkscape:export-ydpi="130"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="boardgamelogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1692"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.79909512"
+     inkscape:cx="359.78195"
+     inkscape:cy="150.16986"
+     inkscape:window-width="1912"
+     inkscape:window-height="999"
+     inkscape:window-x="4"
+     inkscape:window-y="77"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1687">
+    <clipPath
+       id="a">
+      <path
+         fill="#ffffff"
+         transform="translate(1134,100)"
+         d="M 0,0 H 234 V 250 H 0 Z"
+         id="path933" />
+    </clipPath>
+    <clipPath
+       id="b">
+      <path
+         fill="#ffffff"
+         transform="translate(454,150)"
+         d="M 0,0 H 187 V 200 H 0 Z"
+         id="path936" />
+    </clipPath>
+    <clipPath
+       id="c">
+      <path
+         fill="#ffffff"
+         transform="translate(917,100)"
+         d="M 0,0 H 155 V 250 H 0 Z"
+         id="path939" />
+    </clipPath>
+    <clipPath
+       id="d">
+      <path
+         fill="#ffffff"
+         transform="translate(22,50)"
+         d="M 0,0 H 280 V 300 H 0 Z"
+         id="path942" />
+    </clipPath>
+    <clipPath
+       id="e">
+      <path
+         fill="#ffffff"
+         transform="translate(334)"
+         d="M 0,0 H 217 V 350 H 0 Z"
+         id="path945" />
+    </clipPath>
+    <clipPath
+       id="d-7">
+      <path
+         fill="#ffffff"
+         transform="translate(22,50)"
+         d="M 0,0 H 280 V 300 H 0 Z"
+         id="path942-5" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.6102808,-9.1262183)">
+    <path
+       sodipodi:type="star"
+       style="fill:#0094c7;fill-opacity:1;stroke-width:1.88976;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path41100"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="39.585907"
+       sodipodi:cy="65.772636"
+       sodipodi:r1="69.593567"
+       sodipodi:r2="60.269798"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 74.382687,126.04243 -69.5935664,0 L -30.00766,65.772633 4.7891265,5.5028378 74.382693,5.5028412 109.17947,65.77264 Z"
+       transform="matrix(0.23918228,0,0,0.23918228,19.865104,23.909718)"
+       inkscape:export-filename="/home/lopis/Downloads/boardgamelogo.png"
+       inkscape:export-xdpi="130"
+       inkscape:export-ydpi="130" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff5555;fill-opacity:1;stroke-width:1.88976;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path41102"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="39.585907"
+       sodipodi:cy="65.772636"
+       sodipodi:r1="69.593567"
+       sodipodi:r2="60.269798"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 74.382687,126.04243 -69.5935664,0 L -30.00766,65.772633 4.7891265,5.5028378 74.382693,5.5028412 109.17947,65.77264 Z"
+       transform="matrix(0.23918228,0,0,0.23918228,44.83344,38.325186)"
+       inkscape:export-filename="/home/lopis/Downloads/boardgamelogo.png"
+       inkscape:export-xdpi="130"
+       inkscape:export-ydpi="130" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a4d24f;fill-opacity:1;stroke-width:1.88976;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path41104"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="39.585907"
+       sodipodi:cy="65.772636"
+       sodipodi:r1="69.593567"
+       sodipodi:r2="60.269798"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 74.382687,126.04243 -69.5935664,0 L -30.00766,65.772633 4.7891265,5.5028378 74.382693,5.5028412 109.17947,65.77264 Z"
+       transform="matrix(0.23918228,0,0,0.23918228,44.833431,9.4942516)"
+       inkscape:export-filename="/home/lopis/Downloads/boardgamelogo.png"
+       inkscape:export-xdpi="130"
+       inkscape:export-ydpi="130" />
+    <path
+       d="m 57.467054,25.894388 c 0.573573,-0.162346 4.3667,-1.35357 2.440616,-3.896713 -1.686037,-2.226228 -3.44404,0.295486 -3.874465,0.99263 a 0.01258524,0.01258524 0 0 1 -0.0076,0.0055 0.01277961,0.01277961 0 0 1 -0.0155,-0.0077 0.01273102,0.01273102 0 0 1 0,-0.0093 c 0.416084,-1.023148 2.176666,-6.024591 -3.69224,-4.869763 -4.404786,0.866634 -2.455677,5.379101 -2.32895,5.660834 a 0.01375144,0.01375144 0 0 1 9.07e-4,0.0054 0.01311975,0.01311975 0 0 1 -9.07e-4,0.0054 0.01277961,0.01277961 0 0 1 -0.0085,0.0067 c -0.230759,0.06025 -3.075508,0.879268 -1.174896,3.921836 1.34619,2.154991 4.169463,0.934709 4.420092,0.820859 a 0.01248807,0.01248807 0 0 1 0.0066,-0.0011 0.01258524,0.01258524 0 0 1 0.0119,0.01264 c 0.0057,0.372068 -0.03231,1.377088 -0.383922,3.695154 a 0.23907109,0.23907109 0 0 0 0.05442,0.193298 0.24159785,0.24159785 0 0 0 0.182952,0.0846 h 1.943176 a 0.24159785,0.24159785 0 0 0 0.182952,-0.0846 0.23907109,0.23907109 0 0 0 0.05442,-0.193298 C 54.89054,29.68167 54.884607,28.721837 54.896757,28.446469 a 0.01282821,0.01282821 0 0 1 0.01927,-0.01049 c 0.246368,0.138245 2.932464,1.599444 3.907118,0.181588 1.592907,-2.317427 -0.886768,-2.655576 -1.353635,-2.698045 a 0.01297398,0.01297398 0 0 1 -0.01153,-0.0116 0.01302257,0.01302257 0 0 1 0.0019,-0.0083 0.01336271,0.01336271 0 0 1 0.0076,-0.0052 z"
+       fill="#008009"
+       id="path41108"
+       style="stroke-width:0.0485918"
+       inkscape:export-filename="/home/lopis/Downloads/boardgamelogo.png"
+       inkscape:export-xdpi="130"
+       inkscape:export-ydpi="130" />
+    <path
+       d="m 34.220685,36.488799 c -0.236788,-0.313127 -0.647212,-0.408475 -1.009054,-0.338128 -0.72308,0.140693 -1.459869,0.606891 -1.772818,0.82326 a 0.01893013,0.01893013 0 1 1 -0.02513,-0.02831 c 0.499482,-0.543652 2.124976,-2.286622 1.686718,-3.23066 -0.175678,-0.379552 -0.652475,-0.465647 -1.037418,-0.365948 -0.641023,0.165081 -1.525618,0.713023 -1.746826,0.854082 a 0.01875084,0.01875084 0 0 1 -0.02825,-0.01165 0.01905723,0.01905723 0 0 1 7.56e-4,-0.01165 c 0.09926,-0.236346 0.471288,-1.181547 0.54984,-2.24765 0.112932,-1.535301 -0.180704,-3.161048 -1.967004,-2.988491 -3.086591,0.298174 -1.321748,4.778217 -1.11886,5.268741 a 0.01899595,0.01899595 0 0 1 -0.0038,0.02145 0.01862828,0.01862828 0 0 1 -0.02135,0.0037 c -0.193997,-0.08389 -1.010339,-0.345359 -1.660243,-0.431821 -0.941038,-0.125864 -1.365993,0.55701 -0.769763,1.305206 0.748193,0.939074 1.448408,1.680528 1.63188,1.871652 a 0.01911851,0.01911851 0 0 1 0.0028,0.02261 0.01911851,0.01911851 0 0 1 -0.0094,0.0079 0.01899595,0.01899595 0 0 1 -0.0119,7.56e-4 c -0.200743,-0.05038 -0.842437,-0.241126 -1.576666,-0.250073 -0.633606,-0.0077 -0.996734,0.306202 -1.025966,0.783491 -0.06878,1.137245 1.488175,2.274489 3.983695,4.490337 a 0.01856701,0.01856701 0 0 1 0.0057,0.01158 c 0.0685,0.511175 0.274277,2.782784 -0.53563,7.894778 a 0.35356982,0.35356982 0 0 0 0.07965,0.284082 0.3517315,0.3517315 0 0 0 0.267163,0.123657 h 2.424801 a 0.35075106,0.35075106 0 0 0 0.267172,-0.123657 0.35356982,0.35356982 0 0 0 0.07965,-0.284082 c -0.810021,-5.112484 -0.604128,-7.384094 -0.53562,-7.895024 a 0.0183219,0.0183219 0 0 1 0.0057,-0.01157 c 0.183831,-0.158034 4.876688,-4.214833 3.868428,-5.548655 z"
+       fill="#a4d24f"
+       id="path903"
+       style="fill:#f9f9f9;stroke-width:0.0612772"
+       inkscape:export-filename="/home/lopis/Downloads/boardgamelogo.png"
+       inkscape:export-xdpi="130"
+       inkscape:export-ydpi="130" />
+    <g
+       clip-path="url(#d-7)"
+       id="g921"
+       transform="matrix(0.05970833,0,0,0.05970833,44.628937,42.115168)"
+       style="fill:#ffaf87;fill-opacity:1"
+       inkscape:export-filename="/home/lopis/Downloads/boardgamelogo.png"
+       inkscape:export-xdpi="130"
+       inkscape:export-ydpi="130">
+      <path
+         d="m 134.787,343.349 c 4.214,-25.302 5.556,-54.865 5.978,-79.927 a 0.297,0.297 0 0 0 -0.028,-0.131 0.296,0.296 0 0 0 -0.201,-0.169 0.308,0.308 0 0 0 -0.135,-0.005 c -18.329,3.441 -45.238,-1.189 -46.141,-29.035 a 0.307,0.307 0 0 0 -0.537,-0.193 c -12.725,14.415 -75.34,2.344 -71.559,-58.873 0.854,-13.8 14.538,-39.449 38.013,-38.022 a 0.304,0.304 0 0 0 0.254,-0.107 0.302,0.302 0 0 0 0.065,-0.266 C 44.147,64.799 112.75,63.387 130.38,77.512 a 0.31,0.31 0 0 0 0.361,0.021 0.302,0.302 0 0 0 0.09,-0.09 C 160.994,31.655 237.046,45.576 230.99,101.289 a 0.306,0.306 0 0 0 0.145,0.295 0.312,0.312 0 0 0 0.33,-0.005 c 40.196,-25.933 75.429,26.628 49.139,57.25 a 0.316,0.316 0 0 0 -0.065,0.121 0.31,0.31 0 0 0 0.16,0.35 c 12.939,6.485 19.388,18.167 20.989,30.822 3.838,30.182 -28.117,67.687 -68.066,49.133 a 0.308,0.308 0 0 0 -0.436,0.309 c 1.343,18.239 -25.994,32.297 -47.893,21.399 a 0.31,0.31 0 0 0 -0.407,0.121 0.308,0.308 0 0 0 -0.041,0.148 c -0.325,26.408 -0.052,56.795 4.62,82.012 a 5.717,5.717 0 0 1 -3.227,6.215 5.78,5.78 0 0 1 -2.441,0.541 h -43.319 c -0.835,0 -1.66,-0.18 -2.418,-0.528 a 5.738,5.738 0 0 1 -3.135,-3.664 5.706,5.706 0 0 1 -0.137,-2.459 z"
+         fill="#008009"
+         id="path919"
+         style="fill:#ffaf87;fill-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.9465px;line-height:0;font-family:sans-serif;fill:#008009;fill-opacity:1;stroke-width:2.07888"
+       x="78.017654"
+       y="35.095406"
+       id="text61326"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Shameimaru Sans';-inkscape-font-specification:'Shameimaru Sans';fill:#008009;fill-opacity:1;stroke-width:2.07888"
+         sodipodi:role="line"
+         id="tspan11041"
+         x="78.017654"
+         y="35.095406">Reforest</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Shameimaru Sans';-inkscape-font-specification:'Shameimaru Sans';fill:#008009;fill-opacity:1;stroke-width:2.07888"
+         x="78.017654"
+         y="49.831184"
+         id="tspan63686" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.9465px;line-height:0;font-family:sans-serif;fill:#ff5555;fill-opacity:1;stroke-width:2.07888"
+       x="78.017654"
+       y="60.093433"
+       id="text31308"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Shameimaru Sans';-inkscape-font-specification:'Shameimaru Sans';fill:#ff5555;fill-opacity:1;stroke-width:2.07888"
+         sodipodi:role="line"
+         id="tspan31304"
+         x="78.017654"
+         y="60.093433">Catan</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Shameimaru Sans';-inkscape-font-specification:'Shameimaru Sans';fill:#ff5555;fill-opacity:1;stroke-width:2.07888"
+         x="78.017654"
+         y="74.829208"
+         id="tspan31306" /></text>
+  </g>
+</svg>

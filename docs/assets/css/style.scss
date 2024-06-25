@@ -36,6 +36,10 @@ section {
     width: 600px;
 }
 
+section h2, section h3 {
+	margin-top: 3em;
+}
+
 blockquote {
 	color: var(--color-secondary);
 }
