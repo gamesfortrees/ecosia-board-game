@@ -30,9 +30,8 @@ footer {
     display: none;
 }
 
-header, section {
-	float: none;
-	position: relative;
+.wrapper {
+    width: 960px;
 }
 
 header {
