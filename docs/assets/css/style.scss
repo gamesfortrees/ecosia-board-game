@@ -54,12 +54,14 @@ blockquote {
 
 
 /** NAV **/
+nav {
+    overflow: scroll;
+    flex-grow: 1;
+}
 
 #navlist {
     list-style: none;
     padding: 0;
-    overflow: scroll;
-    flex-grow: 1;
 }
 
 nav li {
