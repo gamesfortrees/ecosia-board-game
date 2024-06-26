@@ -6,7 +6,7 @@
 
 The game uses a regular Catan board. There are 6 types of tiles, plus the ocean:
 
-- 🌵 **Deforested area** tiles** (aka the desert) where trees can’t grow unless it’s reforested
+- 🌵 **Deforested area** tiles (aka the desert) where trees can’t grow unless it’s reforested
 - 🌾 **Farmland** tiles (aka fields) will try to expand, but growing trees in them is beneficial
 - 🏔 **Water spring** tiles (aka mountains) produce water for the surroundings
 - 🏜 **Dry lands** tiles (aka hills) can grow trees but are more prone to wildfires
