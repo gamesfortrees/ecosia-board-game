@@ -71,7 +71,7 @@ li.H4 {
 }
 
 
-
+/* desktop */
 @media print, screen and (min-width: 961px) {
     body {
         margin: 0;
@@ -86,5 +86,31 @@ li.H4 {
 
     section {
         width: 600px;
+    }
+}
+
+/* desktop */
+@media print, screen and (max-width: 720px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+
+    .wrapper {
+        width: 960px;
+    }
+
+
+    section {
+        width: 600px;
+    }
+}
+
+/* tablet */
+@media print, screen and (max-width: 720px) {
+    .logo {
+      max-width: 300px;
+      margin: auto;
     }
 }
