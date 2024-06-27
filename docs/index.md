@@ -20,12 +20,14 @@ Part of the idea of a sustainable board game is to avoid having to buy a new gam
 
 * Settlers of Catan basic board
 * Number tiles from Catan, and a bag to place them
-* Catan's resource cards + knight cards (or print our tree management deck)
-* A Standard 52-card deck (or print our event deck)
+* Catan's resource cards + knight cards (or print [our tree management deck](https://github.com/gamesfortrees/ecosia-board-game/tree/main/cards))
+* A Standard 52-card deck (or print our [event deck](https://github.com/gamesfortrees/ecosia-board-game/tree/main/cards))
 * 1 D4 die
 * 3 sets of at least 15 identical pieces to represent 3 species of trees
 * A first-player token (e.g. the robbers token from Catan)
 * A small opaque bag (should fit your hand)
+
+![Ecosia Board Game](assets/img/cards.png)
 
 {% include components.md %}
 
