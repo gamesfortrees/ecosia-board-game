@@ -24,9 +24,9 @@ If the players are able to eliminate all deforested areas, **the game is won**. 
 
 ### Scoring
 
-Players can calculate how well they did if they win the game. The scoring system is based on how many tons of CO<sub>2<sub> the reforested areas will sequester in a year. Each tree unit placed on the board represents 1 hectare of planted forest. More tree units at the end of the game increase the CO<sub>2<sub> sequestering capacity.
+Players can calculate how well they did if they win the game. The scoring system is based on how many tons of CO<sub>2</sub> the reforested areas will sequester in a year. Each tree unit placed on the board represents 1 hectare of planted forest. More tree units at the end of the game increase the CO<sub>2</sub> sequestering capacity.
 
-Biodiverse forests sequester more CO<sub>2<sub> than monocultures over time, therefore tiles containing more biodiversity will score higher. Use the table below to calculate the final score:
+Biodiverse forests sequester more CO<sub>2</sub> than monocultures over time, therefore tiles containing more biodiversity will score higher. Use the table below to calculate the final score:
 
 | Biodiversity level | CO2 sequestering capacity | Point per tree unit |
 | --------------- | --------------- | --------------- |
