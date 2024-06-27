@@ -31,13 +31,13 @@ The farmlands want to expand. For each farmland tile, destroy all trees of one s
 1. Identify the farmland tile closest to the starting player that currently has no trees.
 1. Choose an adjacent tile (not another farmland) for the expansion. If there were any trees on the chosen tile, remove them.
 1. Remove the adjacent tile and move the farmland tile there.
-1. Flip over the removed adjacent tile and place it on the place where the farmland previously was. This is now a deforested area and you need to assign it a number like described above on “Deforestation”.
+1. Flip over the removed adjacent tile and place it on the place where the farmland previously was. This is now a deforested area and you need to assign it a number like described above on [Deforestation](#-deforestation).
 
 > 📚 *Human civilization continuously deforests areas to use as farmland. This is especially a big problem for monoculture plantations, since the quality of the soil after harvesting is so bad that it is much cheaper to just move to a different area instead of planting again, causing more deforestation.*
 
 #### 🌊 Heavy rain
 
-Add 1 tree to one tile surrounding each water spring tile. You don’t need to use trees from nurseries and can choose the tile and species you plant. Then run the “Deforestation” event.
+Add 1 tree to one tile surrounding each water spring tile. You don’t need to use trees from nurseries and can choose the tile and species you plant. Then run the [Deforestation](#-deforestation) event.
 
 > 📚 *Climate change increases the amount and intensity of rains, flooding susceptible areas. This suffocates trees, but also is a problem for many people living in affected areas. Heavy rain also causes erosion, which trees can help prevent by increasing the retention of water and nutrients.*
 

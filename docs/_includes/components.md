@@ -10,8 +10,8 @@ The game uses a regular Catan board. There are 6 types of tiles, plus the ocean:
 - 🌾 **Farmland** tiles (aka fields) will try to expand, but growing trees in them is beneficial
 - 🏔 **Water spring** tiles (aka mountains) produce water for the surroundings
 - 🏜 **Dry lands** tiles (aka hills) can grow trees but are more prone to wildfires
-- 🌳 **Forest** tiles (aka forest)** starts with 1 random tree unit
-- 🌿 **Meadow** tiles** (aka pasture) just start empty
+- 🌳 **Forest** tiles (aka forest) starts with 1 random tree unit
+- 🌿 **Meadow** tiles (aka pasture) just start empty
 - ⚓️ **Nurseries** are the docks on the cost, and is where tree saplings will be places
 
 ### The trees

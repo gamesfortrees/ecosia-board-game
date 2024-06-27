@@ -21,7 +21,7 @@ Place 3 trees in any nurseries of your choice. You may distribute these trees ac
 
 #### 🌳 Plant
 
-Plant a tree on a tile from a selected nursery, except on a [deforested area](#deforested-area). You must use a tree unit from a nursery that is connected to that tile (see “Connected Tiles” under “Concepts” for details).
+Plant a tree on a tile from a selected nursery, except on a [deforested area](#deforested-area). You must use a tree unit from a nursery that is connected to that tile (see [Connected Tiles](#connected-tiles)).
 
 
 > 📚 *Planting trees is one of the best ways to reforest the planet and fight climate change.*

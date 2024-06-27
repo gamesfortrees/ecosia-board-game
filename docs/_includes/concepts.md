@@ -16,7 +16,7 @@ A nursery is connected to a tile if it can reach
 
 #### Deforested area
 
-A deforested area is a specific area where no trees can be planted until it is reforested (see “Reforestation development card”).  At the start of the game, this is only the “desert” tile, but other tiles can become deforested areas and this would be symbolized by turning them over.
+A deforested area is a specific area where no trees can be planted until it is reforested (see [Reforestation](#-reforestation) development card).  At the start of the game, this is only the desert tile, but other tiles can become deforested areas and this would be symbolized by turning them over.
 
 #### Dominant species
 
