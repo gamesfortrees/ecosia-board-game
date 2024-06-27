@@ -8,22 +8,31 @@ layout: default
 
 **Ecosia: the board game** is the fun co-op board game that you probably already own! Based on the popular game about colonialism and resource extraction _Settlers of Catan_, we've remagined what living in the island of Catan could be like if humans and nature could co-exist.
 
-This game was developed by a group of board game fans at Ecosia with a multitude of skills, but more importantly a love for trees, nature and the environment. If you decide to give it a try, we would love to hear back from you over on our Github page.
+This game was developed by a group of board game fans at Ecosia with a multitude of skills, but more importantly a love for trees, nature and the environment. It features a mix of strategy and luck. If you decide to give it a try, we would love to hear back from you over on our Github page.
+
+**Players**: 1-6 (ideally 4 players)
+**Duration**: 30-40 minutes
 
 ## Materials needed
 
 Part of the idea of a sustainable board game is to avoid having to buy a new game. We encourage you to repurpose the cards and pieces from Catan and other games, but you can also print our custom-made card deck. To play **Ecosia: the board game** you will need:
 
-*   Settlers of Catan basic board
-*   Number tiles from Catan, and a bag to place them
-*   Catan's resource cards + knight cards (or print our tree management deck)
-*   A Standard 52-card deck (or print our event deck)
-*   1 D4 die
-*   3 sets of at least 15 identical pieces to represent 3 species of trees
-*   A first-player token
+* Settlers of Catan basic board
+* Number tiles from Catan, and a bag to place them
+* Catan's resource cards + knight cards (or print our tree management deck)
+* A Standard 52-card deck (or print our event deck)
+* 1 D4 die
+* 3 sets of at least 15 identical pieces to represent 3 species of trees
+* A first-player token (e.g. the robbers token from Catan)
+* A small opaque bag (should fit your hand)
 
 {% include components.md %}
 
 {% include concepts.md %}
+
+{% include setup.md %}
+
+{% include gameplay.md %}
+
 
 
