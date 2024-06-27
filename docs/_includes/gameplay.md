@@ -28,8 +28,8 @@ Players can calculate how well they did if they win the game. The scoring system
 
 Biodiverse forests sequester more CO<sub>2</sub> than monocultures over time, therefore tiles containing more biodiversity will score higher. Use the table below to calculate the final score:
 
-| Biodiversity level | CO2 sequestering capacity | Point per tree unit |
+| Biodiversity level | CO<sub>2</sub> sequestering capacity | Point per tree unit |
 | --------------- | --------------- | --------------- |
-| Monoculture tile | 5 - 20 tons of CO2 per year | 1 points |
-| 2 species and no monoculture | 10 - 20 tons of CO2 per year | 2 points |
-| 3 species and no monoculture | 10 - 30 tons of CO2 per year | 3 points |
+| Monoculture tile | 5 - 20 tons of CO<sub>2</sub> per year | 1 points |
+| 2 species and no monoculture | 10 - 20 tons of CO<sub>2</sub> per year | 2 points |
+| 3 species and no monoculture | 10 - 30 tons of CO<sub>2</sub> per year | 3 points |
