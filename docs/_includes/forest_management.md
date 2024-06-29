@@ -21,7 +21,7 @@ Place 3 trees in any nurseries of your choice. You may distribute these trees ac
 
 #### 🌳 Plant
 
-Plant a tree on a tile from a selected nursery, except on a [deforested area](#deforested-area). You must use a tree unit from a nursery that is connected to that tile (see [Connected Tiles](#connected-tiles)).
+Plant a tree on a any eligible tile from a selected nursery, except on a [deforested area](#deforested-area). The tree must originate from a nursery that is *connected* to that tile (see [Connected Tiles](#connected-tiles)).
 
 
 > 📚 *Planting trees is one of the best ways to reforest the planet and fight climate change.*
@@ -34,7 +34,7 @@ To a tile of your choice, add a tree unit of a species already planted there. Th
 
 #### 💞 Natural reforestation
 
-Add a tree unit of the same species between two tiles where that species is already planted. This tree unit should come from your reserve (not from a nursery).
+Add a tree between two tiles where that species is already planted. This tree unit should come from your reserve (not from a nursery).
 
 The following graphic illustrates the valid reforestation positions.
 
@@ -54,12 +54,18 @@ Increase tree diversity on a farmland to create a productive system that mimics 
 
 #### 💧 Reforestation
 
-Bring life back to a deforested area of your choosing by planting different trees from connected nurseries in it (see [Connected Tiles](#connected-tiles)).
+Bring life back to one deforested area of your choosing by planting different trees from connected nurseries in it (see [Connected Tiles](#connected-tiles)).
 
 1. Calculate the total number of trees already planted in the tiles surrounding the deforested area. Ensure this number meets or exceeds the value shown on the deforested area's number token. If not, you cannot proceed with reforestation.
-1. If condition 1 is satisfied, you plant trees in the deforested area equal to half of the number on the deforested area's number token (rounded down).
+1. If condition 1 is satisfied, you need to plant trees in that deforested area equal to half of the number on the deforested area's number token (rounded down).
 1. You can choose trees from different nurseries connected to the deforested area to fulfill the planting requirement.
 1. If you do not have enough trees to plant, you also cannot proceed with reforestation.
 1. If the reforested tile is facing down, flip it back and discard the number token.
 
-> *📚 To reforest areas that have scarce rains, we use the Half Moon technique, where we dig half moon shaped holes and plant the trees inside it so that more water is retained when it does rain.*
+> *📚 To reforest areas that have scarce rains, we use the [Half Moon technique](https://blog.ecosia.org/how-your-searches-brought-a-desert-back-to-life/), where we dig half moon shaped holes and plant the trees inside it so that more water is retained when it does rain.*
+    
+If you want to make this event harder and more realistic, because the growing conditions in deforested areas are so harsh:
+
+* If condition 1 is satisfied, you need to source as many trees from the nursery as the number token indicates
+* *Discard half of the trees* as their survival rate is only 50%
+* Plant the trees as described above
