@@ -1,3 +1,5 @@
+![Decorative banner](docs/assets/img/trees_banner.png)
+
 # Ecosia: the board game
 
 ## The sustainable board that teaches about reforesting
